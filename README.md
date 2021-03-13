@@ -39,6 +39,11 @@
 <!-- BLOG-POST-LIST:START -->
 - [Ping Google But Not able to ping Facebook from same System](https://suyogkumawat1999.medium.com/ping-google-but-not-able-to-ping-facebook-from-same-system-6c12ed79dc76)
 - [Kubernetes and its Use case: AppDirect](https://suyogkumawat1999.medium.com/kubernetes-and-its-use-case-appdirect-62e7c6cd37c7)
+- [How industries are solving challenges using Ansible](https://www.linkedin.com/pulse/how-industries-solving-challenges-using-ansible-suyog-kumawat/)
+- [Machine Learning and Artificial Intelligence Finance](https://www.linkedin.com/pulse/machine-learning-artificial-intelligence-finance-suyog-kumawat/)
+- [High Availability Architecture with AWS CLI](https://www.linkedin.com/pulse/high-availability-architecture-aws-cli-suyog-kumawat/)
+- [Big Data And Hadoop](https://www.linkedin.com/pulse/big-data-hadoop-suyog-kumawat/)
+- [Pokémon Case Study](https://www.linkedin.com/pulse/pok%25C3%25A9mon-case-study-suyog-kumawat/)
 
 <!-- BLOG-POST-LIST:END -->
 
