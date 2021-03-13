@@ -41,7 +41,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PING GOOGLE BUT NOT ABLE TO PING FACEBOOK FROM SAME SYSTEM](https://suyogkumawat1999.medium.com/ping-google-but-not-able-to-ping-facebook-from-same-system-6c12ed79dc76)
+- [Ping Google But Not able to ping Facebook from same System](https://suyogkumawat1999.medium.com/ping-google-but-not-able-to-ping-facebook-from-same-system-6c12ed79dc76)
 - [Kubernetes and its Use case: AppDirect](https://suyogkumawat1999.medium.com/kubernetes-and-its-use-case-appdirect-62e7c6cd37c7)
 
 <!-- BLOG-POST-LIST:END -->
