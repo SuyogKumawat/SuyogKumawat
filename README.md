@@ -37,6 +37,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating LVM with Hadoop and providing Elasticity to Datanode Storage and Increase or Decrease the Size of Static Partition in Linux](https://suyogkumawat1999.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-and-increase-or-decrease-e2363aaad016)
 - [Ping Google But Not able to ping Facebook from same System](https://suyogkumawat1999.medium.com/ping-google-but-not-able-to-ping-facebook-from-same-system-6c12ed79dc76)
 - [Kubernetes and its Use case: AppDirect](https://suyogkumawat1999.medium.com/kubernetes-and-its-use-case-appdirect-62e7c6cd37c7)
 - [How industries are solving challenges using Ansible](https://www.linkedin.com/pulse/how-industries-solving-challenges-using-ansible-suyog-kumawat/)
