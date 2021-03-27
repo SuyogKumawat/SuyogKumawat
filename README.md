@@ -1,11 +1,15 @@
 ### <h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">I'm Suyog Kumawat</h1>
 
-## I'm a Enthusiastic Web Developer and fond of Learning ML and Data Science
+## I'm a Enthusiastic Web Developer and fond of Learning ML 🚀 and Data Science
 
 - 🔭 Exploring possibilities
+
 - 🌱 I’m currently learning Deep Learning and Jenkins
+
 - 👯 I’m looking to collaborate with other content creators
+
 - 🥅 2021 Goals: Contribute more to Open Source projects
+
 - ⚡ Fun fact: I try to solve puzzles and content writing in my free time.
 
 ### Connect with me:
@@ -17,7 +21,7 @@
 
 <br />
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="45" height="45"/>
 <img align="left" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="45" height="45" />   
