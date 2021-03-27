@@ -19,17 +19,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="45" height="45"/>
+<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="45" height="45"/>
 <img align="left" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="45" height="45" />   
 <img align="left" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="45" height="45" />   
-<img align="left" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="55" height="55" />
-<img align="left" alt="SCKIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width="55" height="55" />
-<img align="left" alt="SCKIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="55" height="55" /><br>
-<img align="left" alt="SCKIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="55" height="55" />
-<img align="left" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="55" height="55"/>
-<img align="left" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="55" height="55"/>
-<img align="left" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="55" height="55"/>
-<img align="left" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="55" height="55"/>
+<img align="left" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="45" height="45" />
+<img align="left" alt="SCKIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width="45" height="45" />
+<img align="left" alt="SCKIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="45" height="45" /><br/>
+<img align="left" alt="SCKIT" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="45" height="45" />
+<img align="left" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="45" height="45"/>
+<img align="left" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="45" height="45"/>
+<img align="left" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="45" height="45"/>
+<img align="left" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="45" height="45"/>
 
 <br />
 <br />
@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Industry Use cases of Neural Networks](https://suyogkumawat1999.medium.com/industry-use-cases-of-neural-networks-d0c73973716b)
 - [Integrating LVM with Hadoop and providing Elasticity to Datanode Storage and Increase or Decrease the Size of Static Partition in Linux](https://suyogkumawat1999.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-and-increase-or-decrease-e2363aaad016)
 - [Ping Google But Not able to ping Facebook from same System](https://suyogkumawat1999.medium.com/ping-google-but-not-able-to-ping-facebook-from-same-system-6c12ed79dc76)
 - [Kubernetes and its Use case: AppDirect](https://suyogkumawat1999.medium.com/kubernetes-and-its-use-case-appdirect-62e7c6cd37c7)
