@@ -9,10 +9,10 @@
 - ⚡ Fun fact: I try to solve puzzles and content writing in my free time.
 
 ### Connect with me:
-[<img align="left" alt="Suyog Kumawat's DEV Community Profile" width="22px" src="img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="25" width="25" />][DEV]
-[<img align="left" alt="SuyogKumawat | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" height="25" width="25" />][youtube]
-[<img align="left" alt="SuyogKumawat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="25" width="25"/>][twitter]
-[<img align="left" alt="SuyogKumawat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="25" width="25" />][linkedin]
+[<img align="left" alt="Suyog Kumawat's DEV Community Profile" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="25" width="25" />][DEV]
+[<img align="left" alt="SuyogKumawat | YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" height="25" width="25" />][youtube]
+[<img align="left" alt="SuyogKumawat | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="25" width="25"/>][twitter]
+[<img align="left" alt="SuyogKumawat | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="25" width="25" />][linkedin]
 
 
 <br />
