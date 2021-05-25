@@ -1,10 +1,10 @@
 ### <h1 align='center'> Hi Folks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">I'm Suyog Kumawat</h1>
 
-## I'm a Enthusiastic Web Developer and fond of Learning ML 🚀 and Data Science
+## I'm a Cloud Enthusiast fond of Learning ML 🚀 and Data Science and Microsoft Azure Certified
 
 - 🔭 Exploring possibilities
 
-- 🌱 I’m currently learning Deep Learning and Jenkins
+- 🌱 I’m currently learning Kubernetes and Jenkins
 
 - 👯 I’m looking to collaborate with other content creators
 
