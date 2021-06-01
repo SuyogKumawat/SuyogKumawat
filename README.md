@@ -43,7 +43,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Laumching GUI container on Docker](https://suyogkumawat1999.medium.com/gui-container-on-the-docker-5860ff920a61)
+- [Launching GUI container on Docker](https://suyogkumawat1999.medium.com/gui-container-on-the-docker-5860ff920a61)
 - [Industry Use cases of Neural Networks](https://suyogkumawat1999.medium.com/industry-use-cases-of-neural-networks-d0c73973716b)
 - [Integrating LVM with Hadoop and providing Elasticity to Datanode Storage and Increase or Decrease the Size of Static Partition in Linux](https://suyogkumawat1999.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-and-increase-or-decrease-e2363aaad016)
 - [Ping Google But Not able to ping Facebook from same System](https://suyogkumawat1999.medium.com/ping-google-but-not-able-to-ping-facebook-from-same-system-6c12ed79dc76)
