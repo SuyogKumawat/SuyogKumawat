@@ -1,6 +1,3 @@
-![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
-
-
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :19.07.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=SuyogKumawat&color=blue)&nbsp;
@@ -14,7 +11,6 @@
 <img align="right" width="400" margin-top="500" src="https://cdn.dribbble.com/users/788099/screenshots/8559570/media/b21c621f5f627c462763acd55c2a2319.png">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SuyogKumawat&label=Profile%20views&color=0e75b6&style=flat" alt="suyog07" /> </p>
 
 - 🔭 I’m currently working in **Full Stack Development**.
 
