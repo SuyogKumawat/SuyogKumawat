@@ -46,8 +46,11 @@
 <br />
 <br />
 
----
+![enter image description here](https://github-readme-stats.vercel.app/api?username=SuyogKumawat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuyogKumawat&theme=dark" alt="suyog" /></p>
+
+---
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -67,13 +70,8 @@
 ➡️ [more blog posts...](https://knowledgepython3.blogspot.com/)
 
 ---
-![enter image description here](https://github-readme-stats.vercel.app/api?username=SuyogKumawat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuyogKumawat&theme=dark" alt="suyog" /></p>
-
 
 
 [twitter]: https://twitter.com/kumawat_suyog
-[youtube]: https://www.youtube.com/watch?v=RipELJ_EvLw
 [linkedin]:https://www.linkedin.com/in/suyog-kumawat-7882b7171/
 [DEV]:https://dev.to/suyogkumawat
