@@ -8,9 +8,8 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
-<img align="right" width="400" margin-top="500" src="https://cdn.dribbble.com/users/788099/screenshots/8559570/media/b21c621f5f627c462763acd55c2a2319.png">
+<img align="right" width="400" margin-top="500" src="https://fuertedevelopers.com/assets/img/aboutus.gif">
 
-![BannerGIF](https://fuertedevelopers.com/assets/img/aboutus.gif)
 
 
 
