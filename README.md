@@ -1,4 +1,3 @@
-
 ### <h1 align='center'> Hi Folks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">I'm Suyog Kumawat</h1>
 
 ## I'm Prefinal CSE Student, Cloud Enthusiast and fond of Learning Neural Networks 🚀
@@ -10,6 +9,8 @@
 
 
 <img align="right" width="400" margin-top="500" src="https://cdn.dribbble.com/users/788099/screenshots/8559570/media/b21c621f5f627c462763acd55c2a2319.png">
+
+![BannerGIF](https://fuertedevelopers.com/assets/img/aboutus.gif)
 
 
 
