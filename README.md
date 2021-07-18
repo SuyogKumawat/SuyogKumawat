@@ -2,6 +2,7 @@
 
 ## I'm a Cloud Enthusiast fond of Learning ML 🚀 and Data Science and Microsoft Azure Certified
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SuyogKumawat&label=Profile%20views&color=0e75b6&style=flat" alt="suyog07" /> </p>
 - 🔭 Exploring possibilities
 
 - 🌱 I’m currently learning Kubernetes and Jenkins
