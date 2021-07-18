@@ -1,9 +1,9 @@
 ### <h1 align='center'> Hi Folks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">I'm Suyog Kumawat</h1>
 
-## I'm Prefinal CSE Student, Cloud Enthusiast and fond of Learning Neural Networks 🚀
+## I'm Prefinal year CSE Student, Cloud Enthusiast and Full Stack Web Developer🚀
 
-![version :19.07.2021](https://img.shields.io/badge/version-19.07.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=SuyogKumawat&color=blue)&nbsp;
+![version :19.07.2021](https://img.shields.io/badge/version-21.01.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=SuyogKumawat&color=red)&nbsp;
 [![GitHub Suyog Kumawat](https://img.shields.io/github/followers/SuyogKumawat?label=follow&style=social)](https://github.com/SuyogKumawat)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
