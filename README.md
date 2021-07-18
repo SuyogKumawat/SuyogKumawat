@@ -1,17 +1,18 @@
 ### <h1 align='center'> Hi Folks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">I'm Suyog Kumawat</h1>
 
-## I'm a Cloud Enthusiast fond of Learning ML 🚀 and Data Science and Microsoft Azure Certified
+## I'm Prefinal CSE Student and Cloud Computing PractisesEnthusiast fond of Learning ML 🚀 and Data Science and Microsoft Azure Certified
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuyogKumawat&label=Profile%20views&color=0e75b6&style=flat" alt="suyog07" /> </p>
-- 🔭 Exploring possibilities
 
-- 🌱 I’m currently learning Kubernetes and Jenkins
+- 🔭 I’m currently working in Full Stack Development.
 
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently working in new projects based on Kubernetes, Docker and Jenkins.
+
+- 👯 Implementing Knowledge of Machine Learning, Neural Networks and Computer Vision
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-- ⚡ Fun fact: I try to solve puzzles and content writing in my free time.
+- ⚡ Fun fact: I Love to Read fictional books and content writing in my free time.
 
 ### Connect with me:
 [<img align="left" alt="SuyogKumawat | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="25" width="25" />][linkedin]
@@ -43,7 +44,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Launching GUI container on Docker](https://suyogkumawat1999.medium.com/gui-container-on-the-docker-5860ff920a61)
 - [Industry Use cases of Neural Networks](https://suyogkumawat1999.medium.com/industry-use-cases-of-neural-networks-d0c73973716b)
-- [Integrating LVM with Hadoop and providing Elasticity to Datanode Storage and Increase or Decrease the Size of Static Partition in Linux](https://suyogkumawat1999.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-and-increase-or-decrease-e2363aaad016)
+- [Integrating LVM with Hadoop ](https://suyogkumawat1999.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-and-increase-or-decrease-e2363aaad016)
 - [Ping Google But Not able to ping Facebook from same System](https://suyogkumawat1999.medium.com/ping-google-but-not-able-to-ping-facebook-from-same-system-6c12ed79dc76)
 - [Kubernetes and its Use case: AppDirect](https://suyogkumawat1999.medium.com/kubernetes-and-its-use-case-appdirect-62e7c6cd37c7)
 - [How industries are solving challenges using Ansible](https://www.linkedin.com/pulse/how-industries-solving-challenges-using-ansible-suyog-kumawat/)
@@ -57,7 +58,9 @@
 ➡️ [more blog posts...](https://knowledgepython3.blogspot.com/)
 
 ---
+![enter image description here](https://github-readme-stats.vercel.app/api?username=SuyogKumawat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuyogKumawat&theme=dark" alt="suyog" /></p>
 
 
 
