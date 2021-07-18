@@ -1,16 +1,19 @@
 ### <h1 align='center'> Hi Folks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">I'm Suyog Kumawat</h1>
 
-## I'm Prefinal CSE Student and Cloud Computing PractisesEnthusiast fond of Learning ML 🚀 and Data Science and Microsoft Azure Certified
+## I'm Prefinal CSE Student, Cloud Enthusiast and fond of Learning Neural Networks 🚀
+
+<img align="right" width="400" margin-top="500" src="https://cdn.dribbble.com/users/788099/screenshots/8559570/media/b21c621f5f627c462763acd55c2a2319.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuyogKumawat&label=Profile%20views&color=0e75b6&style=flat" alt="suyog07" /> </p>
 
-- 🔭 I’m currently working in Full Stack Development.
+- 🔭 I’m currently working in **Full Stack Development**.
 
-- 🌱 I’m currently working in new projects based on Kubernetes, Docker and Jenkins.
+- 🌱 I’m currently working in new projects based on **Kubernetes, Docker and Jenkins**.
 
-- 👯 Implementing Knowledge of Machine Learning, Neural Networks and Computer Vision
+- 👯 Implementing Knowledge of **Machine Learning**, **Neural Networks** and **Computer Vision**.
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to **Open Source projects**
 
 - ⚡ Fun fact: I Love to Read fictional books and content writing in my free time.
 
