@@ -2,7 +2,7 @@
 
 ## I'm Prefinal CSE Student, Cloud Enthusiast and fond of Learning Neural Networks 🚀
 
-![version :19.07.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
+![version :19.07.2021](https://img.shields.io/badge/version-19.07.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=SuyogKumawat&color=blue)&nbsp;
 [![GitHub Suyog Kumawat](https://img.shields.io/github/followers/SuyogKumawat?label=follow&style=social)](https://github.com/SuyogKumawat)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
