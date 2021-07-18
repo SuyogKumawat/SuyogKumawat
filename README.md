@@ -3,7 +3,7 @@
 ## I'm Prefinal year CSE Student, Cloud Enthusiast and Full Stack Web Developer🚀
 
 ![version :19.07.2021](https://img.shields.io/badge/version-21.01.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=SuyogKumawat&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=SuyogKumawat&color=blue)&nbsp;
 [![GitHub Suyog Kumawat](https://img.shields.io/github/followers/SuyogKumawat?label=follow&style=social)](https://github.com/SuyogKumawat)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
@@ -21,7 +21,7 @@
 
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
 
-- ⚡ Fun fact: I Love to Read fictional books and content writing in my free time.
+- ⚡ Fun fact: I Love to **Travel** and **Content Writing** in my free time.
 
 ### Connect with me:
 [<img align="left" alt="SuyogKumawat | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="25" width="25" />][linkedin]
