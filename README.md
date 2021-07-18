@@ -1,3 +1,12 @@
+![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
+
+
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+![version :19.07.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=SuyogKumawat&color=blue)&nbsp;
+[![GitHub Suyog Kumawat](https://img.shields.io/github/followers/SuyogKumawat?label=follow&style=social)](https://github.com/SuyogKumawat)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+
 ### <h1 align='center'> Hi Folks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">I'm Suyog Kumawat</h1>
 
 ## I'm Prefinal CSE Student, Cloud Enthusiast and fond of Learning Neural Networks 🚀
