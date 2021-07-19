@@ -46,7 +46,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SuyogKumawat&theme=dark)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuyogKumawat&theme=dark" alt="suyog1" /></p>
 
 ---
 ### 📕 Latest Blog Posts
