@@ -1,6 +1,6 @@
 ### <h1 align='center'> Hi Folks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">I'm Suyog Kumawat</h1>
 
-## I'm Prefinal year CSE Student, Cloud Enthusiast and Full Stack Web Developer🚀
+## I'm Final year CSE Student, Cloud Enthusiast🚀
 
 ![version :19.07.2021](https://img.shields.io/badge/version-21.01.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=SuyogKumawat&color=blue)&nbsp;
@@ -13,20 +13,21 @@
 
 
 
-- 🔭 I’m currently working in **Full Stack Development**.
+- 🔭 I’m currently working in to build my **Portfolio Website** it will launch soon.
 
-- 🌱 I’m currently working in new projects based on **Kubernetes, Docker and Jenkins**.
+- 🌱 I’m currently working in new projects based on **Machine Learning, Kubernetes, Docker and Jenkins**.
 
-- 👯 Implementing Knowledge of **Machine Learning**, **Neural Networks** and **Computer Vision**.
+- 👯 Recently completed my internship as MLOPS Intern and build some project using integration of different technologies **Machine Learning**, **Docker**,**Jenkins**, **GitHub**, **Javascript** and programming language used was **Python**.
 
-- 🥅 2021 Goals: Contribute more to **Open Source projects**
+- 🥅 2021 Goals: Contribute more to **Open Source projects**.
 
-- ⚡ Fun fact: I Love to **Travel** and **Content Writing** in my free time.
+- ⚡ Fun fact: I Love to **Travel** and **Read some favourite books** in my free time.
 
 ### Connect with me:
 [<img align="left" alt="SuyogKumawat | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="25" width="25" />][linkedin]
 [<img align="left" alt="Suyog Kumawat's DEV Community Profile" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="25" width="25" />][DEV]
 [<img align="left" alt="SuyogKumawat | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="25" width="25"/>][twitter]
+[<img align="left" alt="SuyogKumawat |Medium" src="https://icon-library.com/images/medium-icon/medium-icon-24.jpg" height="25" width="25"/>][Medium]
 
 
 
@@ -70,5 +71,6 @@
 
 
 [twitter]: https://twitter.com/kumawat_suyog
-[linkedin]:https://www.linkedin.com/in/suyog-kumawat-7882b7171/
+[linkedin]:https://www.linkedin.com/in/suyogkumawat/
 [DEV]:https://dev.to/suyogkumawat
+[Medium]: https://suyogkumawat1999.medium.com/
