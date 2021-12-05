@@ -4,7 +4,8 @@
 
 ![version :19.07.2021](https://img.shields.io/badge/version-21.01.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=SuyogKumawat&color=blue)&nbsp;
-![GitHub Suyog Kumawat](https://img.shields.io/github/followers/SuyogKumawat?label=follow&style=social)](https://github.com/SuyogKumawat)&nbsp;
+![GitHub Suyog Kumawat](https://img.shields.io/github/followers/SuyogKumawat?label=follow&style=social)&nbsp;
+![GitHub Suyog Kumawat](https://github.com/SuyogKumawat)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
