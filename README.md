@@ -1,6 +1,6 @@
 ### <h1 align='center'> Hi Folks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">I'm Suyog Kumawat</h1>
 
-## I'm Final year CSE Student, Cloud Enthusiast🚀
+## I'm Final year CSE Student, Cloud Enthusiast🚀 and Aspiring Learner.
 
 ![version :19.07.2021](https://img.shields.io/badge/version-21.01.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=SuyogKumawat&color=blue)&nbsp;
@@ -27,7 +27,7 @@
 [<img align="left" alt="SuyogKumawat | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="25" width="25" />][linkedin]
 [<img align="left" alt="Suyog Kumawat's DEV Community Profile" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="25" width="25" />][DEV]
 [<img align="left" alt="SuyogKumawat | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="25" width="25"/>][twitter]
-[<img align="left" alt="SuyogKumawat |Medium" src="https://icon-library.com/images/medium-icon/medium-icon-24.jpg" height="25" width="25"/>][Medium]
+[<img align="left" alt="SuyogKumawat |Medium" src="https://icon-library.com/images/medium-icon/medium-icon-24.jpg" height="25" width="30"/>][Medium]
 
 
 
@@ -35,8 +35,10 @@
 
 ### 💻 Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="45" height="45"/>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/> </a> 
+
+<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40"/>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
