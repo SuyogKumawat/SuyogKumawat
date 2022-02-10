@@ -56,8 +56,9 @@
 <a href="https://www.linkedin.com/in/suyogkumawat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://suyogkumawat1999.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
----
-### 📕 Latest Blog Posts
+
+
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Launching GUI container on Docker](https://suyogkumawat1999.medium.com/gui-container-on-the-docker-5860ff920a61)
