@@ -47,7 +47,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![suyogkumawat's github stats](https://github-readme-stats.vercel.app/api?username=SuyogKumawatg&show_icons=true&theme=dracula)
+![suyogkumawat's github stats](https://github-readme-stats.vercel.app/api?username=SuyogKumawat&show_icons=true&theme=dracula)
 
 
 
