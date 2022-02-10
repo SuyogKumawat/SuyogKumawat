@@ -23,11 +23,14 @@
 
 - ⚡ Fun fact: I Love to **Travel** and **Read best selling books** in my free time.
 
-### Connect with me:
-[<img align="left" alt="SuyogKumawat | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="25" width="25" />][linkedin]
-[<img align="left" alt="Suyog Kumawat's DEV Community Profile" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="25" width="25" />][DEV]
-[<img align="left" alt="SuyogKumawat | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="25" width="25"/>][twitter]
-[<img align="left" alt="SuyogKumawat |Medium" src="https://icon-library.com/images/medium-icon/medium-icon-24.jpg" height="25" width="30"/>][Medium]
+<h3>Where to find me</h3>
+<p><a href="https://github.com/SuyogKumawat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://twitter.com/kumawat_suyog" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/suyogkumawat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://suyogkumawat1999.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+
 
 
 
