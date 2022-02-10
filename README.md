@@ -19,9 +19,9 @@
 
 - 👯 Recently completed my internship as MLOPS Intern and build some project using integration of different technologies **Machine Learning**, **Docker**,**Jenkins**, **GitHub**, **Javascript** and programming language used was **Python**.
 
-- 🥅 2021 Goals: Contribute more to **Open Source projects**.
+- 🥅 2022 Goals: Contribute more to **Open Source projects**.
 
-- ⚡ Fun fact: I Love to **Travel** and **Read some favourite books** in my free time.
+- ⚡ Fun fact: I Love to **Travel** and **Read best selling books** in my free time.
 
 ### Connect with me:
 [<img align="left" alt="SuyogKumawat | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="25" width="25" />][linkedin]
