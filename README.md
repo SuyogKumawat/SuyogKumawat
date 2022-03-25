@@ -1,6 +1,5 @@
-### <h1 align='center'> Hi Folks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">I'm Suyog Kumawat</h1>
+### <h1 align='center'> Hi Folks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">Nice connecting on Github</h1>
 
-## <h2 align='center'>I'm Final year CSE Student, Cloud Enthusiast🚀 and Aspiring Learner.</h2>
 
 ![version :19.07.2021](https://img.shields.io/badge/version-21.01.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=SuyogKumawat&color=blue)&nbsp;
