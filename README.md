@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently working in new projects based on **Machine Learning, Kubernetes, Docker and Jenkins**.
 
-- 👯 Recently completed my internship as MLOPS Intern and build some project using integration of different technologies **Machine Learning**, **Docker**,**Jenkins**, **GitHub**, **Javascript** and programming language used was **Python**.
+- 👯 Recently completed my internship as MLOPS Intern and build some cool projects using integration of different technologies **Machine Learning**, **Docker**,**Jenkins**, **GitHub**, **Javascript** and programming language used was **Python**.
 
 - 🥅 2022 Goals: Contribute more to **Open Source projects**.
 
