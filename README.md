@@ -12,15 +12,15 @@
 
 
 
-- 🔭 I’m currently working in to build my **Portfolio Website** it will launch soon.
+- 🔭 I’m currently working in to create **Automation Scripts** for deployments.
 
-- 🌱 I’m currently working in new projects based on **Machine Learning, Kubernetes, Docker and Jenkins**.
+- 🌱 I’m currently working in new projects based on **Terrform, Lambda function AWS, Kubernetes, Docker and Jenkins**.
 
-- 👯 Recently completed my internship as MLOPS Intern and build some cool projects using integration of different technologies **Machine Learning**, **Docker**,**Jenkins**, **GitHub**, **Javascript** and programming language used was **Python**.
+- 👯 Recently completed my internship as DEVOPS Intern and build some cool projects using integration of different technologies **Docker**,**Jenkins**, **GitHub**, **AWS** and programming language used was **Python**.
 
-- 🥅 2022 Goals: Contribute more to **Open Source projects**.
+- 🥅 2023 Goals: Contribute more to **Open Source projects**.
 
-- ⚡ Fun fact: I Love to **Travel** and **Read best selling books** in my free time.
+- ⚡ Fun fact: I Love to **Travel** and **Self Help books** in my free time.
 
 
 
@@ -54,7 +54,10 @@
 <a href="https://twitter.com/kumawat_suyog" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/suyogkumawat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://suyogkumawat1999.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+<a href="https://clouddevaws.blogspot.com/"> <img alt="Github" src="https://www.blogger.com/img/logo_blogger_40px_2x.png?&style=for-the-badge&logo=Github&logoColor=white" </a></p>
+
+
+
 
 
 ## 📕 Latest Blog Posts
