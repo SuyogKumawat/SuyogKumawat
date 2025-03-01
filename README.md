@@ -14,11 +14,11 @@
 
 - 🔭 I’m currently working in to create **Automation Scripts** for deployments.
 
-- 🌱 I’m currently working in new projects based on **Terrform, Lambda function AWS, Kubernetes, Docker and Jenkins**.
+- 🌱 I’m currently working in new projects based on **Terrform, AWS, Kubernetes, Docker, Jenkins, ARGO CD, FLUX CD, Linux, Airflow, Prometheus, Grafana and Github Actions**.
 
-- 👯 Recently completed my internship as DEVOPS Intern and build some cool projects using integration of different technologies **Docker**,**Jenkins**, **GitHub**, **AWS** and programming language used was **Python**.
+- 👯 Recently working as Cloud DevOps Enginner and build some cool projects using integration of different technologies **AWS EKS**,**Github Actions**, **Prometheus**, **Helm Charts**, **Flux and Argo CD**,**Airflow**, **Prometheus and Grafana**, and programming language used was **Python**.
 
-- 🥅 2023 Goals: Contribute more to **Open Source projects**.
+- 🥅 2025 Goals: Contribute more to **Open Source projects**.
 
 - ⚡ Fun fact: I Love to **Travel** and **Self Help books** in my free time.
 
@@ -63,7 +63,8 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching GUI container on Docker](https://suyogkumawat1999.medium.com/gui-container-on-the-docker-5860ff920a61)
+- [AWS Solution Architect Associate Guide](https://guideclouddevops.medium.com/ultimate-guide-crack-the-aws-certified-solutions-architect-associate-exam-in-2025-78fb1a4bf19b)
+- [Airflow Best Practices 2024](https://guideclouddevops.medium.com/airflow-best-practices-2024-e1a000375ea0)
 - [Industry Use cases of Neural Networks](https://suyogkumawat1999.medium.com/industry-use-cases-of-neural-networks-d0c73973716b)
 - [Integrating LVM with Hadoop ](https://suyogkumawat1999.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-and-increase-or-decrease-e2363aaad016)
 - [Ping Google But Not able to ping Facebook from same System](https://suyogkumawat1999.medium.com/ping-google-but-not-able-to-ping-facebook-from-same-system-6c12ed79dc76)
