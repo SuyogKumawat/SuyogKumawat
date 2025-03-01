@@ -72,17 +72,16 @@
 - [How industries are solving challenges using Ansible](https://www.linkedin.com/pulse/how-industries-solving-challenges-using-ansible-suyog-kumawat/)
 - [Machine Learning and Artificial Intelligence Finance](https://www.linkedin.com/pulse/machine-learning-artificial-intelligence-finance-suyog-kumawat/)
 - [High Availability Architecture with AWS CLI](https://www.linkedin.com/pulse/high-availability-architecture-aws-cli-suyog-kumawat/)
-- [Big Data And Hadoop](https://www.linkedin.com/pulse/big-data-hadoop-suyog-kumawat/)
-- [Pokémon Case Study](https://www.linkedin.com/pulse/pok%25C3%25A9mon-case-study-suyog-kumawat/)
+  
+➡️ [more blog posts...](https://knowledgepython3.blogspot.com/)
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://knowledgepython3.blogspot.com/)
 
 ---
 
-
+[Medium]: https://medium.com/@guideclouddevops
 [twitter]: https://twitter.com/kumawat_suyog
 [linkedin]:https://www.linkedin.com/in/suyogkumawat/
 [DEV]:https://dev.to/suyogkumawat
-[Medium]: https://suyogkumawat1999.medium.com/
+
